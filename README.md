@@ -1,2 +1,3 @@
-# Diffusion_models
-This repository categorizes the papers about diffusion models applied in computer vision
+## ✨ Diffusion Models:
+
+*Denoising diffusion models are a new and promising area of research in computer vision, with great success in generative modeling. They consist of two stages: **a forward stage in which input data is gradually altered by adding noise, and a reverse stage in which the model attempts to recover the original data by gradually reversing the diffusion process.** These models are well-regarded for the high quality and variety of the generated samples they produce, but they have the drawback of being computationally slow due to the large number of steps involved during sampling.*
