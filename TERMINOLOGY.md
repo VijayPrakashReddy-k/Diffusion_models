@@ -7,3 +7,14 @@ For example, in image recognition, a pre-trained model can be used to extract fe
 Downstream tasks are often used in transfer learning, where a model is trained on a source task and then used for a target task that is related to the source task. The pre-trained model on the source task is used as a feature extractor or initialization for the target task, and the downstream task is performed on the output of the pre-trained model.
 
 The use of downstream tasks can help to improve the performance of machine learning models by leveraging the knowledge learned from a previous task. It can also help to reduce the amount of training data needed for the downstream task and accelerate the training process.
+
+## 📌 2. Classifier free Guidance:
+
+Diffusion guidance
+
+https://sander.ai/2022/05/26/guidance.html
+
+https://www.assemblyai.com/blog/how-imagen-actually-works/#:~:text=Classifier%2DFree%20Guidance%20is%20a,used%20for%20the%20same%20purposes.
+
+
+
